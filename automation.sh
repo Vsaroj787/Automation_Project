@@ -81,3 +81,23 @@ if [[ -f /tmp/${name}-httpd-logs-${timestamp}.tar ]]; then
 	#statements
 	aws s3 cp /tmp/${name}-httpd-logs-${timestamp}.tar s3://${s3_bucket}/${name}-httpd-logs-${timestamp}.tar
 fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
